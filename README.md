@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Estou começando os trabalhos nessa rede, sinta-se livre para comentar, compartilhar e testar meus projetos. 
 <!--
 **silviasetubal/silviasetubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
